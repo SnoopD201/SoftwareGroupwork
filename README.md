@@ -4,8 +4,9 @@
 
 
 小组: 阿水大杯茶:
+队长:王爽(@wangshuang20021002)
 
-成员:王爽(wangshuang20021002),时逸丁(Snoopd201),赵梓屹(YeatesZ),周一支(vivizyz),朱靖哲(zhujingzhe)
+成员:时逸丁(@Snoopd201),赵梓屹(@YeatesZ),周一支(@vivizyz),朱靖哲(@zhujingzhe)
 
 
 

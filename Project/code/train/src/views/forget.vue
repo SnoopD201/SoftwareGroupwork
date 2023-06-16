@@ -178,7 +178,7 @@ export default {
           setTimeout(() => {
             // 请求后台进行验证...
             axios
-              .post("/api/lab1/test1", {
+              .post("/api/user/forget", {
               })
               .then((res) => {
               });

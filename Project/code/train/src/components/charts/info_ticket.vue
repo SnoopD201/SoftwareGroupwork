@@ -5,6 +5,7 @@
     <el-option label="2020" value="2020" />
     <el-option label="2021" value="2021" />
     <el-option label="2022" value="2022" />
+    <el-option label="2023" value="2023" />
   </el-select>
   <el-select v-model="car_id" placeholder="请选择要查询的车辆">
     <el-option

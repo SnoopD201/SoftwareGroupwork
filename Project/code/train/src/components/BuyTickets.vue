@@ -161,7 +161,7 @@ export default {
                 this.$router.push({
                   path: "Tickets",
                   query: {
-                    user_id: this.$route.query.user_id,
+                    user_id: this.$route.query.user_id, 
                     // tickets: JSON.stringify(this.tickets),
                     ticketTime: this.Form.time,
                     ticket_start: this.Form.start,
